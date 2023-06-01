@@ -1,0 +1,17 @@
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\bin\Debug\netstandard2.0\SGR_Mobile.deps.json
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\bin\Debug\netstandard2.0\SGR_Mobile.dll
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\bin\Debug\netstandard2.0\SGR_Mobile.pdb
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\SGR_Mobile.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\SGR_Mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\Vues\MainPage.xaml.g.cs
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\SGR_Mobile.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\SGR_Mobile.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\SGR_Mobile.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\SGR_Mobile.dll
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\refint\SGR_Mobile.dll
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\SGR_Mobile.pdb
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\ref\SGR_Mobile.dll
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\Vues\Accueil.xaml.g.cs
+C:\Users\Utilisateur\source\repos\SGR_Mobile\SGR_Mobile\SGR_Mobile\obj\Debug\netstandard2.0\Vues\AccueilAdmin.xaml.g.cs
